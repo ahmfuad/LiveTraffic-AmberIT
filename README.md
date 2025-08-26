@@ -18,8 +18,8 @@ AmberIT Live Traffic Monitor is a Node.js application that connects to AmberIT's
 
 1. **Clone the repository:**
    ```sh
-   git clone <your-repo-url>
-   cd amberitfetcher
+   git clone [<your-repo-url>](https://github.com/ahmfuad/LiveTraffic-AmberIT.git)
+   cd LiveTraffic-AmberIT
    ```
 
 2. **Install dependencies:**
